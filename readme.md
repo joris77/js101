@@ -1,0 +1,1 @@
+Example of react with hot code replacement with webpack.
